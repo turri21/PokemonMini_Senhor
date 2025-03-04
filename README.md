@@ -1,3 +1,8 @@
+-=(PokemonMini_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [PokemonMini](https://en.wikipedia.org/wiki/Pokémon_Mini) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 # HW Requirements
